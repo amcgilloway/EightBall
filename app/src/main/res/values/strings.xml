@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">EightBall</string>
+    <string name="app_name">Magic Eightball App</string>
+    <string name="dev_name">Ally</string>
+    <string name="question">Enter a question</string>
+    <string name="shake">Shake</string>
 </resources>
